@@ -10,3 +10,9 @@ edition = "2018"
 [dev-dependencies]
 proptest = "0.9"
 criterion = "0.3"
+mimalloc = "0.1"
+core_affinity = "*"
+
+[[bench]]
+name = "criterion_bench"
+harness = false
