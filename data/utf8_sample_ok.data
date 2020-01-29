@@ -1,0 +1,171 @@
+UTF-8 encoded sample plain-text file
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Markus Kuhn [ˈmaʳkʊs kuːn] &lt;mkuhn@acm.org> — 1999-08-20
+The ASCII compatible UTF-8 encoding of ISO 10646 and Unicode
+plain-text files is defined in RFC 2279 and in ISO 10646-1 Annex R.
+Using Unicode/UTF-8, you can write in emails and source code things such as
+Mathematics and Sciences:
+  ∮ E⋅da = Q,  n → ∞, ∑ f(i) = ∏ g(i), ∀x∈ℝ: ⌈x⌉ = −⌊−x⌋, α ∧ ¬β = ¬(¬α ∨ β),
+  ℕ ⊆ ℕ₀ ⊂ ℤ ⊂ ℚ ⊂ ℝ ⊂ ℂ, ⊥ &lt; a ≠ b ≡ c ≤ d ≪ ⊤ ⇒ (A ⇔ B),
+  2H₂ + O₂ ⇌ 2H₂O, R = 4.7 kΩ, ⌀ 200 mm
+Linguistics and dictionaries:
+  ði ıntəˈnæʃənəl fəˈnɛtık əsoʊsiˈeıʃn
+  Y [ˈʏpsilɔn], Yen [jɛn], Yoga [ˈjoːgɑ]
+APL:
+  ((V⍳V)=⍳⍴V)/V←,V    ⌷←⍳→⍴∆∇⊃‾⍎⍕⌈
+Nicer typography in plain text files:
+  ╔══════════════════════════════════════════╗
+  ║                                          ║
+  ║   • ‘single’ and “double” quotes         ║
+  ║                                          ║
+  ║   • Curly apostrophes: “We’ve been here” ║
+  ║                                          ║
+  ║   • Latin-1 apostrophe and accents: '´`  ║
+  ║                                          ║
+  ║   • ‚deutsche‘ „Anführungszeichen“       ║
+  ║                                          ║
+  ║   • †, ‡, ‰, •, 3–4, —, −5/+5, ™, …      ║
+  ║                                          ║
+  ║   • ASCII safety test: 1lI|, 0OD, 8B     ║
+  ║                      ╭─────────╮         ║
+  ║   • the euro symbol: │ 14.95 € │         ║
+  ║                      ╰─────────╯         ║
+  ╚══════════════════════════════════════════╝
+Greek (in Polytonic):
+  The Greek anthem:
+  Σὲ γνωρίζω ἀπὸ τὴν κόψη
+  τοῦ σπαθιοῦ τὴν τρομερή,
+  σὲ γνωρίζω ἀπὸ τὴν ὄψη
+  ποὺ μὲ βία μετράει τὴ γῆ.
+  ᾿Απ᾿ τὰ κόκκαλα βγαλμένη
+  τῶν ῾Ελλήνων τὰ ἱερά
+  καὶ σὰν πρῶτα ἀνδρειωμένη
+  χαῖρε, ὦ χαῖρε, ᾿Ελευθεριά!
+  From a speech of Demosthenes in the 4th century BC:
+  Οὐχὶ ταὐτὰ παρίσταταί μοι γιγνώσκειν, ὦ ἄνδρες ᾿Αθηναῖοι,
+  ὅταν τ᾿ εἰς τὰ πράγματα ἀποβλέψω καὶ ὅταν πρὸς τοὺς
+  λόγους οὓς ἀκούω· τοὺς μὲν γὰρ λόγους περὶ τοῦ
+  τιμωρήσασθαι Φίλιππον ὁρῶ γιγνομένους, τὰ δὲ πράγματ᾿ 
+  εἰς τοῦτο προήκοντα,  ὥσθ᾿ ὅπως μὴ πεισόμεθ᾿ αὐτοὶ
+  πρότερον κακῶς σκέψασθαι δέον. οὐδέν οὖν ἄλλο μοι δοκοῦσιν
+  οἱ τὰ τοιαῦτα λέγοντες ἢ τὴν ὑπόθεσιν, περὶ ἧς βουλεύεσθαι,
+  οὐχὶ τὴν οὖσαν παριστάντες ὑμῖν ἁμαρτάνειν. ἐγὼ δέ, ὅτι μέν
+  ποτ᾿ ἐξῆν τῇ πόλει καὶ τὰ αὑτῆς ἔχειν ἀσφαλῶς καὶ Φίλιππον
+  τιμωρήσασθαι, καὶ μάλ᾿ ἀκριβῶς οἶδα· ἐπ᾿ ἐμοῦ γάρ, οὐ πάλαι
+  γέγονεν ταῦτ᾿ ἀμφότερα· νῦν μέντοι πέπεισμαι τοῦθ᾿ ἱκανὸν
+  προλαβεῖν ἡμῖν εἶναι τὴν πρώτην, ὅπως τοὺς συμμάχους
+  σώσομεν. ἐὰν γὰρ τοῦτο βεβαίως ὑπάρξῃ, τότε καὶ περὶ τοῦ
+  τίνα τιμωρήσεταί τις καὶ ὃν τρόπον ἐξέσται σκοπεῖν· πρὶν δὲ
+  τὴν ἀρχὴν ὀρθῶς ὑποθέσθαι, μάταιον ἡγοῦμαι περὶ τῆς
+  τελευτῆς ὁντινοῦν ποιεῖσθαι λόγον.
+  Δημοσθένους, Γ´ ᾿Ολυνθιακὸς
+Georgian:
+  From a Unicode conference invitation:
+  გთხოვთ ახლავე გაიაროთ რეგისტრაცია Unicode-ის მეათე საერთაშორისო
+  კონფერენციაზე დასასწრებად, რომელიც გაიმართება 10-12 მარტს,
+  ქ. მაინცში, გერმანიაში. კონფერენცია შეჰკრებს ერთად მსოფლიოს
+  ექსპერტებს ისეთ დარგებში როგორიცაა ინტერნეტი და Unicode-ი,
+  ინტერნაციონალიზაცია და ლოკალიზაცია, Unicode-ის გამოყენება
+  ოპერაციულ სისტემებსა, და გამოყენებით პროგრამებში, შრიფტებში,
+  ტექსტების დამუშავებასა და მრავალენოვან კომპიუტერულ სისტემებში.
+Russian:
+  From a Unicode conference invitation:
+  Зарегистрируйтесь сейчас на Десятую Международную Конференцию по
+  Unicode, которая состоится 10-12 марта 1997 года в Майнце в Германии.
+  Конференция соберет широкий круг экспертов по  вопросам глобального
+  Интернета и Unicode, локализации и интернационализации, воплощению и
+  применению Unicode в различных операционных системах и программных
+  приложениях, шрифтах, верстке и многоязычных компьютерных системах.
+Thai (UCS Level 2):
+  Excerpt from a poetry on The Romance of The Three Kingdoms (a Chinese
+  classic 'San Gua'):
+  [----------------------------|------------------------]
+    ๏ แผ่นดินฮั่นเสื่อมโทรมแสนสังเวช  พระปกเกศกองบู๊กู้ขึ้นใหม่
+  สิบสองกษัตริย์ก่อนหน้าแลถัดไป       สององค์ไซร้โง่เขลาเบาปัญญา
+    ทรงนับถือขันทีเป็นที่พึ่ง           บ้านเมืองจึงวิปริตเป็นนักหนา
+  โฮจิ๋นเรียกทัพทั่วหัวเมืองมา         หมายจะฆ่ามดชั่วตัวสำคัญ
+    เหมือนขับไสไล่เสือจากเคหา      รับหมาป่าเข้ามาเลยอาสัญ
+  ฝ่ายอ้องอุ้นยุแยกให้แตกกัน          ใช้สาวนั้นเป็นชนวนชื่นชวนใจ
+    พลันลิฉุยกุยกีกลับก่อเหตุ          ช่างอาเพศจริงหนาฟ้าร้องไห้
+  ต้องรบราฆ่าฟันจนบรรลัย           ฤๅหาใครค้ำชูกู้บรรลังก์ ฯ
+  (The above is a two-column text. If combining characters are handled
+  correctly, the lines of the second column should be aligned with the
+  | character above.)
+Ethiopian:
+  Proverbs in the Amharic language:
+  ሰማይ አይታረስ ንጉሥ አይከሰስ።
+  ብላ ካለኝ እንደአባቴ በቆመጠኝ።
+  ጌጥ ያለቤቱ ቁምጥና ነው።
+  ደሀ በሕልሙ ቅቤ ባይጠጣ ንጣት በገደለው።
+  የአፍ ወለምታ በቅቤ አይታሽም።
+  አይጥ በበላ ዳዋ ተመታ።
+  ሲተረጉሙ ይደረግሙ።
+  ቀስ በቀስ፥ ዕንቁላል በእግሩ ይሄዳል።
+  ድር ቢያብር አንበሳ ያስር።
+  ሰው እንደቤቱ እንጅ እንደ ጉረቤቱ አይተዳደርም።
+  እግዜር የከፈተውን ጉሮሮ ሳይዘጋው አይድርም።
+  የጎረቤት ሌባ፥ ቢያዩት ይስቅ ባያዩት ያጠልቅ።
+  ሥራ ከመፍታት ልጄን ላፋታት።
+  ዓባይ ማደሪያ የለው፥ ግንድ ይዞ ይዞራል።
+  የእስላም አገሩ መካ የአሞራ አገሩ ዋርካ።
+  ተንጋሎ ቢተፉ ተመልሶ ባፉ።
+  ወዳጅህ ማር ቢሆን ጨርስህ አትላሰው።
+  እግርህን በፍራሽህ ልክ ዘርጋ።
+Runes:
+  ᚻᛖ ᚳᚹᚫᚦ ᚦᚫᛏ ᚻᛖ ᛒᚢᛞᛖ ᚩᚾ ᚦᚫᛗ ᛚᚪᚾᛞᛖ ᚾᚩᚱᚦᚹᛖᚪᚱᛞᚢᛗ ᚹᛁᚦ ᚦᚪ ᚹᛖᛥᚫ
+  (Old English, which transcribed into Latin reads 'He cwaeth that he
+  bude thaem lande northweardum with tha Westsae.' and means 'He said
+  that he lived in the northern land near the Western Sea.')
+Braille:
+  ⡌⠁⠧⠑ ⠼⠁⠒  ⡍⠜⠇⠑⠹⠰⠎ ⡣⠕⠌
+  ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠙⠑⠁⠙⠒ ⠞⠕ ⠃⠑⠛⠔ ⠺⠊⠹⠲ ⡹⠻⠑ ⠊⠎ ⠝⠕ ⠙⠳⠃⠞
+  ⠱⠁⠞⠑⠧⠻ ⠁⠃⠳⠞ ⠹⠁⠞⠲ ⡹⠑ ⠗⠑⠛⠊⠌⠻ ⠕⠋ ⠙⠊⠎ ⠃⠥⠗⠊⠁⠇ ⠺⠁⠎
+  ⠎⠊⠛⠝⠫ ⠃⠹ ⠹⠑ ⠊⠇⠻⠛⠹⠍⠁⠝⠂ ⠹⠑ ⠊⠇⠻⠅⠂ ⠹⠑ ⠥⠝⠙⠻⠞⠁⠅⠻⠂
+  ⠁⠝⠙ ⠹⠑ ⠡⠊⠑⠋ ⠍⠳⠗⠝⠻⠲ ⡎⠊⠗⠕⠕⠛⠑ ⠎⠊⠛⠝⠫ ⠊⠞⠲ ⡁⠝⠙
+  ⡎⠊⠗⠕⠕⠛⠑⠰⠎ ⠝⠁⠍⠑ ⠺⠁⠎ ⠛⠕⠕⠙ ⠥⠏⠕⠝ ⠰⡡⠁⠝⠛⠑⠂ ⠋⠕⠗ ⠁⠝⠹⠹⠔⠛ ⠙⠑ 
+  ⠡⠕⠎⠑ ⠞⠕ ⠏⠥⠞ ⠙⠊⠎ ⠙⠁⠝⠙ ⠞⠕⠲
+  ⡕⠇⠙ ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠁⠎ ⠙⠑⠁⠙ ⠁⠎ ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲
+  ⡍⠔⠙⠖ ⡊ ⠙⠕⠝⠰⠞ ⠍⠑⠁⠝ ⠞⠕ ⠎⠁⠹ ⠹⠁⠞ ⡊ ⠅⠝⠪⠂ ⠕⠋ ⠍⠹
+  ⠪⠝ ⠅⠝⠪⠇⠫⠛⠑⠂ ⠱⠁⠞ ⠹⠻⠑ ⠊⠎ ⠏⠜⠞⠊⠊⠥⠇⠜⠇⠹ ⠙⠑⠁⠙ ⠁⠃⠳⠞
+  ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲ ⡊ ⠍⠊⠣⠞ ⠙⠁⠧⠑ ⠃⠑⠲ ⠔⠊⠇⠔⠫⠂ ⠍⠹⠎⠑⠇⠋⠂ ⠞⠕
+  ⠗⠑⠛⠜⠙ ⠁ ⠊⠕⠋⠋⠔⠤⠝⠁⠊⠇ ⠁⠎ ⠹⠑ ⠙⠑⠁⠙⠑⠌ ⠏⠊⠑⠊⠑ ⠕⠋ ⠊⠗⠕⠝⠍⠕⠝⠛⠻⠹ 
+  ⠔ ⠹⠑ ⠞⠗⠁⠙⠑⠲ ⡃⠥⠞ ⠹⠑ ⠺⠊⠎⠙⠕⠍ ⠕⠋ ⠳⠗ ⠁⠝⠊⠑⠌⠕⠗⠎ 
+  ⠊⠎ ⠔ ⠹⠑ ⠎⠊⠍⠊⠇⠑⠆ ⠁⠝⠙ ⠍⠹ ⠥⠝⠙⠁⠇⠇⠪⠫ ⠙⠁⠝⠙⠎
+  ⠩⠁⠇⠇ ⠝⠕⠞ ⠙⠊⠌⠥⠗⠃ ⠊⠞⠂ ⠕⠗ ⠹⠑ ⡊⠳⠝⠞⠗⠹⠰⠎ ⠙⠕⠝⠑ ⠋⠕⠗⠲ ⡹⠳
+  ⠺⠊⠇⠇ ⠹⠻⠑⠋⠕⠗⠑ ⠏⠻⠍⠊⠞ ⠍⠑ ⠞⠕ ⠗⠑⠏⠑⠁⠞⠂ ⠑⠍⠏⠙⠁⠞⠊⠊⠁⠇⠇⠹⠂ ⠹⠁⠞
+  ⡍⠜⠇⠑⠹ ⠺⠁⠎ ⠁⠎ ⠙⠑⠁⠙ ⠁⠎ ⠁ ⠙⠕⠕⠗⠤⠝⠁⠊⠇⠲
+  (The first couple of paragraphs of "A Christmas Carol" by Dickens)
+Compact font selection example text:
+  ABCDEFGHIJKLMNOPQRSTUVWXYZ /0123456789
+  abcdefghijklmnopqrstuvwxyz £©µÀÆÖÞßéöÿ
+  –—‘“”„†•…‰™œŠŸž€ ΑΒΓΔΩαβγδω АБВГДабвгд
+  ∀∂∈ℝ∧∪≡∞ ↑↗↨↻⇣ ┐┼╔╘░►☺♀ ﬁ�⑀₂ἠḂӥẄɐː⍎אԱა
+Greetings in various languages:
+  Hello world, Καλημέρα κόσμε, コンニチハ
+Box drawing alignment tests:                                          █
+                                                                      ▉
+  ╔══╦══╗  ┌──┬──┐  ╭──┬──╮  ╭──┬──╮  ┏━━┳━━┓  ┎┒┏┑   ╷  ╻ ┏┯┓ ┌┰┐    ▊ ╱╲╱╲╳╳╳
+  ║┌─╨─┐║  │╔═╧═╗│  │╒═╪═╕│  │╓─╁─╖│  ┃┌─╂─┐┃  ┗╃╄┙  ╶┼╴╺╋╸┠┼┨ ┝╋┥    ▋ ╲╱╲╱╳╳╳
+  ║│╲ ╱│║  │║   ║│  ││ │ ││  │║ ┃ ║│  ┃│ ╿ │┃  ┍╅╆┓   ╵  ╹ ┗┷┛ └┸┘    ▌ ╱╲╱╲╳╳╳
+  ╠╡ ╳ ╞╣  ├╢   ╟┤  ├┼─┼─┼┤  ├╫─╂─╫┤  ┣┿╾┼╼┿┫  ┕┛┖┚     ┌┄┄┐ ╎ ┏┅┅┓ ┋ ▍ ╲╱╲╱╳╳╳
+  ║│╱ ╲│║  │║   ║│  ││ │ ││  │║ ┃ ║│  ┃│ ╽ │┃  ░░▒▒▓▓██ ┊  ┆ ╎ ╏  ┇ ┋ ▎
+  ║└─╥─┘║  │╚═╤═╝│  │╘═╪═╛│  │╙─╀─╜│  ┃└─╂─┘┃  ░░▒▒▓▓██ ┊  ┆ ╎ ╏  ┇ ┋ ▏
+  ╚══╩══╝  └──┴──┘  ╰──┴──╯  ╰──┴──╯  ┗━━┻━━┛           └╌╌┘ ╎ ┗╍╍┛ ┋  ▁▂▃▄▅▆▇█
+"#;
+
+    #[test]
+    fn utf8_sample_ok() {
+        assert!(is_utf8(UTF8_SAMPLE_OK.as_bytes()).is_ok());
+    }
+
+    const ASCII_SAMPLE_OK: &str = r#"
+Lorem ipsum dolor sit amet, alii meliore his te, eos nemore voluptatum temporibus ex. Saepe dicant ponderum an pro. Pro an nemore apeirian volutpat, mei cu erat partem sadipscing. Integre mentitum an mel, te has sale simul percipit, ludus legere conceptam mel cu. Eu mel enim errem, at vim dicit dolore, vim cu everti utroque praesent.
+Sea in debitis delectus invidunt, vero dolorum consequat ne duo. Mea id omittam nominavi consequat, agam commune molestie ut vel. Sit simul utamur democritum ex, ne has odio stet, te sed illum dolorem petentium. Eirmod omnesque qui eu. Dolorum detraxit assueverit duo no, eos ex agam illud deseruisse, te mea tibique percipit delicata.
+Id eum adhuc errem ridens. Tamquam vulputate intellegat pro ex, id aliquam facilisis cum. Ei vix phaedrum mediocrem honestatis. Sit at error nostrud propriae, brute assentior eam ei. Vis in vero eripuit, pro stet meis civibus ei. Cu duo detracto recusabo salutandi, oblique appetere id eos. Eum id primis detracto, ius no dolor cetero incorrupte.
+Eos dicit utroque id, in qui voluptatum scripserit dissentiet. Virtute facilisi nec ei. Natum persecuti posidonium at pri, tale abhorreant eu sit. Autem sadipscing per et, salutatus intellegat per in, erant instructior qui ut. Officiis expetenda usu no, quo legendos conceptam ei. Euismod urbanitas ut his, vide quando audire eam no, vel ut eros mollis maiestatis.
+Natum eripuit legendos et sit. Persecuti interpretaris in ius. Consul probatus prodesset ut est. Harum solet pro te, probo intellegat ea nec. Te dolor bonorum mei. Cum id nostrud molestie omittantur.
+Vocent sadipscing comprehensam has te. Mei nibh vivendo ne, sonet labores ut sea. Debitis scriptorem per ex. Mea eu velit efficiendi, bonorum delicatissimi nec at.
+Ex has hinc mediocrem. Sea eu sumo conclusionemque, ut sumo choro has. Vim eu postea mnesarchum. In has fugit deserunt, in euripidis voluptaria nam. Pri no illum sadipscing, oratio luptatum instructior et his. Odio modus erroribus his te, maluisset conceptam ullamcorper vis eu, an quem scribentur per.
+Eos facilisis democritum te, ex usu eripuit fuisset imperdiet. Vim nonumes philosophia et, esse iudico sea te. Ei usu tollit deleniti. Eam malis nemore no, ut rebum legendos assueverit vix. At qui mollis definiebas, agam delicata scripserit id eam. Essent suscipit accusamus usu no, sed ut partem democritum.
+Te mei vide labitur, ubique omnesque philosophia has te. An mei pertinax abhorreant signiferumque, pro in aeque propriae voluptua, at eos mutat splendide eloquentiam. Cu purto habeo eos. Pri nullam postea te, sint vitae tempor id vim, ut offendit moderatius has. Causae imperdiet concludaturque usu ad, mei facer dicam id. Ne sea quidam omittantur. Dicat tation lucilius ad mel, an usu utinam doctus.
+Nam cu case dictas euismod. Vel ex suavitate percipitur. His discere labores ut, quo nibh dissentiet ne. Assum augue accusamus ea eam, eum debet scripserit te, vix aeque persequeris ea. Assum gubergren nec eu, in sed admodum feugait recusabo. Nam cibo perfecto ex, cu mentitum gloriatur cum, etiam antiopam intellegebat et sea.
