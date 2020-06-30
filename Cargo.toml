@@ -4,14 +4,18 @@ version = "0.1.0"
 authors = ["Heinz N. Gies <heinz@licenser.net>"]
 edition = "2018"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
+[features]
+default = ["cpb"]
+cpb = []
 
 [dev-dependencies]
 proptest = "0.10"
 criterion = "0.3"
 mimalloc = "0.1"
 core_affinity = "*"
+
+[target.'cfg(any(target_arch = "x86_64", target_arch = "x86"))'.dev-dependencies]
+criterion-cycles-per-byte = "0.1"
 
 [[bench]]
 name = "criterion_bench"

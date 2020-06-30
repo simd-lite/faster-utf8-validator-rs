@@ -1,12 +1,12 @@
-extern crate core_affinity;
-#[macro_use]
-extern crate criterion;
-
 use mimalloc::MiMalloc;
 #[global_allocator]
 static GLOBAL: MiMalloc = MiMalloc;
 
-use criterion::{measurement::Measurement, Criterion, Throughput};
+use criterion::{criterion_group, criterion_main, measurement::Measurement, Criterion, Throughput};
+
+#[cfg(all(any(target_arch = "x86_64", target_arch = "x86"), feature = "cpb"))]
+use criterion_cycles_per_byte::CyclesPerByte;
+
 use std::{fs, str};
 
 fn bench_file<T: Measurement>(c: &mut Criterion<T>, name: &str, is_valid: bool) {
@@ -50,5 +50,14 @@ fn bench_all<T: Measurement>(c: &mut Criterion<T>) {
     bench_file(c, "ascii_sample_ok", true);
 }
 
+#[cfg(all(any(target_arch = "x86_64", target_arch = "x86"), feature = "cpb"))]
+criterion_group! {
+    name = benches;
+    config = Criterion::default().with_measurement(CyclesPerByte);
+    targets = bench_all
+}
+
+#[cfg(not(all(any(target_arch = "x86_64", target_arch = "x86"), feature = "cpb")))]
 criterion_group!(benches, bench_all);
+
 criterion_main!(benches);
