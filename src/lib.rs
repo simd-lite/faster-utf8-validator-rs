@@ -181,7 +181,7 @@ mod tests {
                 s[0] = 0;
                 let is_valid = validate(s);
 
-                assert!(is_valid == String::from_utf8(s.to_vec()).is_ok())
+                assert!(is_valid == std::str::from_utf8(s).is_ok())
             }
         }
     }
